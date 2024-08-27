@@ -31,7 +31,7 @@ main {
     }
 
 .mensagem {
-    color: #0A3871;
+    color: #d9650c;
     background-color: white;
     border: none;
     border-radius: 24px;
@@ -48,7 +48,7 @@ main {
 }
 
 .mensagem:not(:focus) {
-    background-image: url(/2_9_CHALLENGE/Img/boneco.png);
+    background-image: url(/Img/boneco.png);
     background-repeat: no-repeat;
 }
 .botoes{
@@ -106,10 +106,6 @@ main {
         font-size: 18px;
     }
 
-.info2{
-    background: white;
-    margin-top: 10px;
-}
 .rodape {
         background-color: #D8DFE8 ;
         color: #495057 ;

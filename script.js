@@ -58,4 +58,5 @@ function copiarTexto() {
         navigator.clipboard.writeText(mensagem.value).then(() => {
             alert('Copiado para Clipboard')
         })
+        mensagem.value = "";
     }
